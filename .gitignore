@@ -1,0 +1,8 @@
+*.mkv
+*.mp4
+*.avi
+out/*.pdf
+out/*.pptx
+out/*.html
+out/*.jpg
+out/*.png

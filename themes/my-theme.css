@@ -1,0 +1,20 @@
+/* @theme my-theme */
+
+@import 'gaia';
+
+* {
+    font-family: 'Microsoft YaHei', 'Sarasa Mono TC', 'Fira Code', 'Droid Sans Fallback';
+}
+
+header {
+    color: #fffafa;
+}
+
+footer {
+    color: #fafafa;
+    font-size: xx-small;
+}
+
+code {
+    font-family: 'Sarasa Mono TC', 'Fira Code', 'Droid Sans Fallback';
+}
