@@ -21,8 +21,6 @@ footer: "**AimerNeige**"
 
 > # Git 和 GitHub 是一个东西吗？
 
-
-
 ---
 
 ![bg left:36% 100%](image/logo/git-logo.png)
@@ -51,9 +49,24 @@ footer: "**AimerNeige**"
 
 ---
 
+# Git 本质上是一个**软件**
+
+# GitHub 本质上是一个**平台**
+
+---
+
 <!-- _class: lead -->
 
 # Git 基本使用
+
+---
+
+# Git 的安装
+
+#### Git 官网： https://git-scm.com/
+
+
+<!-- Git 是一个命令行软件 -->
 
 ---
 
