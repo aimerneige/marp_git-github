@@ -103,9 +103,47 @@ footer: "**AimerNeige**"
 
 ---
 
+![bg left:60% 90%](image/git_init.png)
+
 # `git init`
 
+#### 在当前目录下初始化一个新的 git 仓库
 
+---
+
+![bg left:60% 90%](image/git_status.png)
+
+# `git status`
+
+#### 查看当前仓库的状态
+
+---
+
+![bg left:60% 90%](image/git_add.png)
+
+# `git add`
+
+#### 将文件添加到暂存区以提交
+
+```bash
+git add <file>...
+```
+
+```bash
+git rm --cached <file>...
+```
+
+---
+
+![bg left:60% 90%](image/git_commit.png)
+
+# `git commit`
+
+#### 进行一次提交
+
+```bash
+git commit -m "your message here"
+```
 
 ---
 
