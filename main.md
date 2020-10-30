@@ -2,7 +2,7 @@
 marp: true
 theme: my-theme
 _class: lead
-paginate: true
+paginate: false
 backgroundColor: #fff
 backgroundImage: url(image/background/hero-background.jpg)
 header: "**AimerNeige** (C) All Rights Reserved"
@@ -89,7 +89,23 @@ footer: "**AimerNeige**"
 
 # 如何打开 Git ？
 
-Git 没有界面，并不能打开，你可以通过打开终端模拟器来执行 Git 命令。
+### Git 没有界面，并不能打开，你可以通过打开终端模拟器来执行 Git 命令。
+
+如果你是一个 Windows 用户，Windows 下的 Git 可能会自带一个 **Git GUI** 请不要使用它，使用 **Git Bash** 或其他终端模拟器。
+
+---
+
+![bg center 80%](image/git_bash.png)
+
+---
+
+![bg center 80%](image/git_ps.png)
+
+---
+
+# `git init`
+
+
 
 ---
 
