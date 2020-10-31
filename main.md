@@ -229,9 +229,9 @@ pull request 是合并请求，是指向发起一个请求请求将某一个分�
 
 ---
 
-![bg left:40% 80%](image/logo/androidlab-logo.jpg)
+![bg left:40% 80%](image/logo/androidlab-logo.png)
 
-# NUC Android Lab
+# Git & GitHub
 
 本演示文档使用 [Marp](https://marp.app/) 构建
 
