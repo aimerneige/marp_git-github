@@ -5,8 +5,8 @@ _class: lead
 paginate: false
 backgroundColor: #fff
 backgroundImage: url(image/background/hero-background.jpg)
-header: "**AimerNeige** (C) All Rights Reserved"
-footer: "**AimerNeige**"
+# header: "**AimerNeige** (C) All Rights Reserved"
+# footer: "**AimerNeige**"
 ---
 
 <!-- _class: lead -->
@@ -75,6 +75,10 @@ footer: "**AimerNeige**"
 
 ---
 
+![bg](image/git_install.png)
+
+---
+
 # Git 命令
 
 ### Git 是一个**命令行软件** (Command Line Software)
@@ -100,6 +104,10 @@ footer: "**AimerNeige**"
 ---
 
 ![bg center 80%](image/git_ps.png)
+
+---
+
+![bg center 80%](image/alacritty.png)
 
 ---
 
