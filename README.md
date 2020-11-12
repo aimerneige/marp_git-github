@@ -25,8 +25,8 @@ Welcome to my own [blog][Blog].
 
 [Marp]: https://marp.app/
 [release]: https://github.com/aimerneige/marp_git-github/releases/
-[download_pdf]: https://github.com/aimerneige/marp_git-github/releases/download/2.1/release.pdf
-[download_pptx]: https://github.com/aimerneige/marp_git-github/releases/download/2.1/release.pptx
+[download_pdf]: https://github.com/aimerneige/marp_git-github/releases/download/2.1/Git.GitHub.pdf
+[download_pptx]: https://github.com/aimerneige/marp_git-github/releases/download/2.1/Git.GitHub.pptx
 [AimerNeige]: https://github.com/AimerNeige/
 [MIT]: https://github.com/aimerneige/marp_git-github/blob/master/LICENSE
 [Blog]: https://aimerneige.com/
