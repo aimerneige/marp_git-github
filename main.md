@@ -75,7 +75,7 @@ backgroundImage: url(image/background/hero-background.jpg)
 
 ---
 
-![bg](image/git_install.png)
+![bg 100%](image/git_install.png)
 
 ---
 
