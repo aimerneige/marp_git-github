@@ -17,7 +17,7 @@
 
 ## About
 
-项目由 [AimerNeige][AimerNeige] 构建。项目使用 [MIT][MIT] 协议，转载请署名。
+项目由 [AimerNeige][AimerNeige] 构建,使用 [MIT][MIT] 协议，转载请署名。
 
 ---
 
